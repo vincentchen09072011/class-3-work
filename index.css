@@ -1,0 +1,21 @@
+.content {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.whole-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.top-left-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.top-mid-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
